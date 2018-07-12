@@ -8,3 +8,13 @@ C:\Users\Stephen\AppData\Local\Temporary Projects\Screen_Shooter\bin\Debug\Scree
 C:\Users\Stephen\AppData\Local\Temporary Projects\Screen_Shooter\bin\Debug\Screen_Shooter.pdb
 C:\Users\Stephen\AppData\Local\Temporary Projects\Screen_Shooter\obj\Debug\Screen_Shooter.exe
 C:\Users\Stephen\AppData\Local\Temporary Projects\Screen_Shooter\obj\Debug\Screen_Shooter.pdb
+C:\Users\Stephen\Documents\GitHub\ScreenCaptureApp3\Screen_Shooter\bin\Debug\Screen_Shooter.exe.config
+C:\Users\Stephen\Documents\GitHub\ScreenCaptureApp3\Screen_Shooter\bin\Debug\Screen_Shooter.exe
+C:\Users\Stephen\Documents\GitHub\ScreenCaptureApp3\Screen_Shooter\bin\Debug\Screen_Shooter.pdb
+C:\Users\Stephen\Documents\GitHub\ScreenCaptureApp3\Screen_Shooter\obj\Debug\Screen_Shooter.csprojAssemblyReference.cache
+C:\Users\Stephen\Documents\GitHub\ScreenCaptureApp3\Screen_Shooter\obj\Debug\Screen_Shooter.ScreenShooterForm.resources
+C:\Users\Stephen\Documents\GitHub\ScreenCaptureApp3\Screen_Shooter\obj\Debug\Screen_Shooter.Properties.Resources.resources
+C:\Users\Stephen\Documents\GitHub\ScreenCaptureApp3\Screen_Shooter\obj\Debug\Screen_Shooter.csproj.GenerateResource.cache
+C:\Users\Stephen\Documents\GitHub\ScreenCaptureApp3\Screen_Shooter\obj\Debug\Screen_Shooter.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Documents\GitHub\ScreenCaptureApp3\Screen_Shooter\obj\Debug\Screen_Shooter.exe
+C:\Users\Stephen\Documents\GitHub\ScreenCaptureApp3\Screen_Shooter\obj\Debug\Screen_Shooter.pdb
